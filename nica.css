@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    display: center;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    background: rgb(2, 2, 2);
+}
+.container{
+    width: 50%;
+    padding-bottom: 25px;
+    text-align: center;
+    margin: 100px auto 75px auto;
+}
+
+p{
+    font-size: 14px;
+    line-height: 10px;
+    background: url(nica/nica11.png);
+    background-attachment: center;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text;
+    background-attachment: center;
+    -webkit-text-fill-color: rgba(255,255,255,0.1);
+
+}
